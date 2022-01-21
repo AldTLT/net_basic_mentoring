@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "My5k+Mw6xzG2UkfqoKEFvzMHTE77c2TXAUXyl8Z9BFgN3ui/l83+VfRkAwHoRsLhI1QCU4mbwUEWxuik4Re5Sg==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\.net mentoring program\\iurii-ulivanov\\net_basic\\2. Advanced C#\\Advanced\\Library.File\\Library.File.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iurii_Ulivanov\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Iurii_Ulivanov\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
